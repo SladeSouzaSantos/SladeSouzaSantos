@@ -1,7 +1,7 @@
 # Pedro H. A. de S. Santos
 ### Desenvolvedor Web && Mobile
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-986DFF?style=flat-square&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/iuricode/)](https://www.linkedin.com/in/phasscode/) 
-[![Gmail Badge](https://img.shields.io/badge/-iuricold99@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=fff&link=mailto:iuricold99@gmail.com)](mailto:phassantos.dev@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-986DFF?style=flat-square&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/phasscode/)](https://www.linkedin.com/in/phasscode/) 
+[![Gmail Badge](https://img.shields.io/badge/-phassantos.dev@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=fff&link=mailto:phassantos.dev@gmail.com)](mailto:phassantos.dev@gmail.com)
 
 <div>
   <a href="https://github.com/SladeSouzaSantos">
