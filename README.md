@@ -6,5 +6,5 @@
 <div>
   <a href="https://github.com/SladeSouzaSantos">
   <!--<img height="150em" src="https://github-readme-stats.vercel.app/api?username=SladeSouzaSantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>-->
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SladeSouzaSantos&layout=compact&langs_count=11&theme=dark"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SladeSouzaSantos&langs_count=11&theme=radical&layout=compact&hide_title=true"/>
 </div>
